@@ -1,0 +1,12 @@
+﻿Сборка начата 25.03.2017 19:50:54.
+     1>Проект "E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\ImageAdapterDev\ImageAdapterDev.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\rabbitmq-c\librabbitmq\Release" /I"C:\rabbitmq-c-master\librabbitmq" /IE:\Opencv\build\x86\vc11\bin /IE:\Opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ImageAdapter.cpp
+     1>cl : командная строка warning D9028: сбой минимальной повторной сборки, возврат к обычной сборке
+         ImageAdapter.cpp
+     1>e:\cloud\google drive\verification_system\imageadapterdev\imageadapterdev\imageadapter.cpp : fatal error C1041: невозможно открыть базу данных программы e:\cloud\google drive\verification_system\imageadapterdev\imageadapterdev\debug\vc120.idb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+     1>Сборка проекта "E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\ImageAdapterDev\ImageAdapterDev.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.20

@@ -1,0 +1,17 @@
+﻿Сборка начата 26.03.2017 3:04:37.
+     1>Проект "E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\ImageAdapterDev\ImageAdapterDev.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\rabbitmq-c-master\librabbitmq" /IE:\Opencv\build\x86\vc11\bin /IE:\Opencv\build\include /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt ImageAdapter.cpp main.cpp
+         main.cpp
+         ImageAdapter.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\x64\Debug\ImageAdapterDev.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\rabbitmq-c\librabbitmq\Debug" /LIBPATH:E:\Opencv\build\x64\vc11\lib /LIBPATH:E:\Opencv\build\x86\vc11\lib /LIBPATH:E:\Opencv\build\x86\vc11\bin rabbitmq.4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\x64\Debug\ImageAdapterDev.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\x64\Debug\ImageAdapterDev.lib" /MACHINE:X64 x64\Debug\ImageAdapter.obj
+         x64\Debug\main.obj
+         x64\Debug\Utils.obj
+         ImageAdapterDev.vcxproj -> E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\x64\Debug\ImageAdapterDev.exe
+     1>Сборка проекта "E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\ImageAdapterDev\ImageAdapterDev.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.10

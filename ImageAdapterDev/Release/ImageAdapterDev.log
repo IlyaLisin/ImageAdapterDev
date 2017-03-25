@@ -1,0 +1,13 @@
+﻿Сборка начата 25.03.2017 19:37:18.
+     1>Проект "E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\ImageAdapterDev\ImageAdapterDev.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ImageAdapter.cpp main.cpp
+         ImageAdapter.cpp
+     1>e:\cloud\google drive\verification_system\imageadapterdev\imageadapterdev\ImageAdapter.h(4): fatal error C1083: Не удается открыть файл включение: opencv\cv.h: No such file or directory
+         main.cpp
+     1>e:\cloud\google drive\verification_system\imageadapterdev\imageadapterdev\ImageAdapter.h(4): fatal error C1083: Не удается открыть файл включение: opencv\cv.h: No such file or directory
+     1>Сборка проекта "E:\Cloud\Google Drive\Verification_system\ImageAdapterDev\ImageAdapterDev\ImageAdapterDev.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.27
